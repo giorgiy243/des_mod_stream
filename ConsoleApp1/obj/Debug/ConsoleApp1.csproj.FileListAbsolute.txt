@@ -1,0 +1,14 @@
+C:\Users\Egor\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Egor\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Egor\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Egor\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Egor\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Egor\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Egor\Desktop\Защита информации\ZI_3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Egor\Desktop\Защита информации\ZI_3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Egor\Desktop\Защита информации\ZI_3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Egor\Desktop\Защита информации\ZI_3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Egor\Desktop\Защита информации\ZI_3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\Защита информации\ZI_3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Egor\Desktop\Защита информации\ZI_3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
